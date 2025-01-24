@@ -20,7 +20,7 @@
 
 ### 👋 About Me
 
-I'm **Jakkula Veerababu**, a **BTech 2nd Year Student** at **Narasaraopet Engineering College**. I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **Open-Source Development**. I love building projects that solve real-world problems and contribute to the tech community.
+I'm **Jakkula Veerababu**, a **BTech 2nd Year Student**  **Narasaraopet Engineering College**. I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **Open-Source Development**. I love building projects that solve real-world problems and contribute to the tech community.
 
 ---
 
